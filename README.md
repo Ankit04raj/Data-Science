@@ -48,9 +48,9 @@ It includes hands-on examples, file handling practice, data formats, and small e
 ## 🚀 Future Updates
 
 - **AI & Data Science learning path (Goal)**
-- **More NumPy, Pandas and visualization notebooks**
-- **Mini Python projects**
-- **Real-world data handling examples**
+- **More NumPy, Pandas and visualization notebooks ...and all for data science**
+- ** projects with real time data**
+- **Real-world data handling **
 
 ---
 
