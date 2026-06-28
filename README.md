@@ -23,7 +23,6 @@ It includes hands-on examples, file handling practice, data formats, and small e
 | 📂 `CODERS_OF_DELHI` | Practice folder related to project / learning material |
 | 📓 `NUMPY.ipynb` | NumPy practice notebook |
 | 📓 `Python_refresher.ipynb` | Python revision and concept notebook |
-| 📓 `Python_refresher-Copy1.ipynb` | Backup / additional practice notebook |
 | 📄 `big.txt` | Text file used for file handling practice |
 | 📄 `sample.txt` | Sample text file |
 | 📄 `sample1.txt` | Sample text file |
