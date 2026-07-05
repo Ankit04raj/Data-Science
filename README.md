@@ -70,6 +70,7 @@ If you would like to improve this repository:
 A big thanks to the learning community and  
 ** Campus x- Data science**  
 https://www.youtube.com/watch?v=1z5-O7-5AXk&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z
+continue with 100 Days of Machine Learning
 
 ---
 
